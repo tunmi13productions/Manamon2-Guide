@@ -1,0 +1,13 @@
+Changes will be highlighted as follows.
+M = Modified
+M: Changed this.
+E = Editted
+E: Editted things.
+r = Removed
+R: Removed this
+A = Addition
+A: Added this.
+X = Other
+X: Another thing but it doesn't align with anything else.
+
+Keep in mind that sometimes, these may be paired. for instance, M E means modified and editted.

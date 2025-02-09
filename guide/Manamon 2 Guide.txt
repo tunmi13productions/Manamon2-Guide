@@ -2,7 +2,7 @@
 Manamon 2 Walkthrough Guide
 Created by tunmi13, with Post-Game content written in collaboration with Kalahami
 Format: Plain Text
-Rev N/A
+Rev 02/08/25
 
 *Starting Notes:
 This guide was made to assist those who are struggling or who are just beginning with Manamon 2. As such, not every manamon and/or piece of equipment are discussed in heavy detail, and not all items along the way (especially ones that are most likely hidden) are documented. This is not meant to fill a Manapedia (explained later) or learn about every piece of equipment. This is to help people get through the game.
@@ -3298,7 +3298,7 @@ Continue heading north until you reach the northern wall. Follow it east, and wh
 The eastern wall will abrutply end, so head east. Once you are able, head north, and you will hear a door.
 Let's head inside.
 
-_Ogma's House, Old Nursery
+_Oghma's House, Old Nursery
 Scattered around this place are toys of various kinds. Feel free to interact with them, but they won't do anything of major significance.
 Keep to the western wall, and when it opens up, head west. Do not go south when the wall ends, that's another area with a rubber horn just casually sitting there.
 Instead, head north, then west. When the wall opens up, head north through it, keeping to the eastern wall.
@@ -4000,7 +4000,7 @@ Rena has been looking all over for you, and you need to sit down, rest, and have
 
 _Back in Suelee's Madam Boveel's
 Walk north, and the scene will trigger automatically.
-Rena is right. Ogma must be stopped. That ring meant something significant. Before Byron decided to hit us with a pole, we didn't get to learn much about the machine, but clealry he's up to something.
+Rena is right. Oghma must be stopped. That ring meant something significant. Before Byron decided to hit us with a pole, we didn't get to learn much about the machine, but clealry he's up to something.
 Rena will also give you what is known as a gamanet, and her pocket copter. 
 A gamanet is a powerful net, in fact it is the most powerful net in the game. It never fails to catch a manamon. It will always work. However, keep in mind you only get one of these. Don't go using this on the weakest manamon you can find!
 Alrighty! Now that we have a pocket copter, we are good to go! Step out of Boveel's.
@@ -4011,7 +4011,7 @@ From here, things only get harder to write about. Some of the things that will p
 That being said, please do not hold me responsible for anything that happens.
 
 Alright. So some advice. Get all the healing supplies you need. Level up your manamon to, I'd say, the late 40s. We will be going to an even more dangerous place.
-The machine in Ogma's house is no longer functional, so let's rewind.
+The machine in Oghma's house is no longer functional, so let's rewind.
 Remember that buzzing sound in Dyeur Hills that I previously told you to avoid? Doesn't it sound similar to the one in the house?
 That's because it is! And we are going to use it!
 If you remember, Dyeur Hills is located in Brytanburg South. Since I'm sure you already know the way, seeing as we have visited Brytanburg like a million times now, I'll skip right to that section.
@@ -4031,7 +4031,7 @@ Once the northern wall opens up, head north, and stick to the eastern wall. You 
 Ignore that strange buzzy sound ahead of you. That's going to be important later.
 Just joking. It's important right now!
 Save, and let's do this.
-Of course it looks identical to the one in Ogma's house. It sounds the same, too. But sadly, we can't get in. There's a solution to that though.
+Of course it looks identical to the one in Oghma's house. It sounds the same, too. But sadly, we can't get in. There's a solution to that though.
 We smash it!
 
 @Evil Machine
@@ -4289,7 +4289,7 @@ For another hyper.
 @@Eternity Angel
 Level: 50
 This hyper is very annoying. When you attack it, it will counter your move with a type advantage attack.
-For instnace, if you use a plant type move on it, it may decide to counter with a flame one.
+For instance, if you use a plant type move on it, it may decide to counter with a flame one.
 That being said, you need to be careful with your move selections, or you could kill your manamon quite easily.
 One move you really need to watch out for that hurts like hell, is Iron Maiden. Steel types tend to learn this move later, but when coming from a hyper, it is going to pack quite a punch.
 Again, it's a hyper, so things like putting it to sleep, draining its health, etc... put it out of your head.
@@ -4316,7 +4316,7 @@ _Back in Requia Gallery
 Step backward to find the front of a cannon. Head around it so it is in front of you, and launch yourself backward. You will go flying across a conveyor belt, and then the game takes over.
 From here, sit back and scroll through the dialogue.
 Essentially, he starts showing you pictures of his daughter in different locations. The first one is just him and her gazing curiously out at the world. The second is her sitting on a... wait. Is that a throne? Are you serious?
-Ogma dashes over, and inserts the artwork into the computer on your left, then runs back as if he's won a toy at a school carnival.
+Oghma dashes over, and inserts the artwork into the computer on your left, then runs back as if he's won a toy at a school carnival.
 Now, by this point, I'm pretty sure you've got this all figured out.
 Eshcon could make it rain because of the ruby in his ring. What do you think this will do, just by inserting a few paintings?
 And now, he spills information about how he's been creating these so called creatures. And since he has been making them quite powerful, they've found their way into our dimension, to come and cause problems.
@@ -4329,7 +4329,7 @@ Start walking west, and a dialog will appear.
 Good news and bad news.
 Let's start with the good news, which is what the dialog says.
 The MS drive now has a purpose.
-For some magical reason, it can now work on the machine we used in Ogma's house. Talk about game logic.
+For some magical reason, it can now work on the machine we used in Oghma's house. Talk about game logic.
 For two, you can actually reach the gallery from the house itself, by going into the hideout through the machine and then using the MS Drive as a sort of teleporter.
 And for three, you can also use it to warp out from the hideout, and back to the house itself.
 Unfortunatley, I have some bad news to tell you guys, and I am very sorry.
@@ -4427,7 +4427,7 @@ You will reach some stairs. Down we go.
 
 _Barren Underground
 I absolutely despise this place. But Aaron doesn't care.
-Head all the way east for a chest. Open it to obtain an Air Claw
+Head all the way east for a chest. Open it to obtain an Air Claw.
 Ignore the entrance to the north. We will be back.
 Head all the way back west, toward the entrance, then west for a revive. Be sure to keep it around.
 Head all the way west, then go south when possible.
@@ -4457,7 +4457,7 @@ This is a musical puzzle, but with a twist.
 The notes are arranged on a belt, not attached to trees.
 What you need to do is hit the notes, while you are moving on the belt.
 First, go to Quartantula after getting off the belt to hear the sequence.
-After that, aim for the conveyor belt that is east, and take it back.
+After that, aim for the conveyor belt that is east of the one you got off of, and take it back.
 Now head to the west conveyor belt and take it.
 Webs 1, 2, and 5
 Head back to the east belt, take it, then the west belt.
@@ -4554,7 +4554,7 @@ Banshreek is level 50
 Head all the way north, then east until you find a gap in the northern wall. Continue north.
 When you can go west, head west. There will be a gap in the western wall near the southern wall, so take it.
 Another dead tamer.
-I'm not going to even try to translate what this tamer just said. Probably an unworldly language. Oghma, do you have a dictionary for this dimension by chance?
+I'm not going to even try to translate what this tamer just said. Probably an otherworldly language. Oghma, do you have a dictionary for this dimension by chance?
 
 @Dead Tamer unknown #3
 Clubbull is level 48
@@ -4581,7 +4581,7 @@ Now, step out into the open, back where all the other boulders are. Get behind t
 Finally, head east and up the ladder.
 
 _Barren Underground F2
-In this room, our goal is to get a large boulder onto a switch. However, there are a few things blocking the boulder.
+In this room, our goal is to get a large statue onto a switch. However, there are a few things blocking the statue.
 On the northern side, there are three boulders preventing a statue from being moved. On either side of the statue, there is a skeleton, and a table.
 At the southern end is a person, who will send you out of the area, so do not interact with them.
 Honestly, I only ever concern myself with the three boulders on the northern end of the room.
@@ -4600,7 +4600,7 @@ Now, follow the northern wall west. Head north, but not all the way. More flames
 Get past the flames, and then hop on the belt. But this belt is dangerous!
 Part of the belt is electrified. Stick to the western wall, otherwise have fun being shredded.
 Eventually you will be transported onto another belt. Once you get off the belt, avoid the pit like always.
-Head to the eastern wall, then head north for the chest, containing Underground Key 1
+Head to the eastern wall, then head north for the chest, containing Underground Key 1.
 
 _Back in Barren Underground
 Alright, we have all 3 keys!
@@ -4656,7 +4656,7 @@ This is a 6 against 7 battle.
 The manamon are not hard to deal with if you possess the right types. It's Byron you should be extremely worried about.
 If you manage to kill all of his manamon, and he is still within a certain health range, he can resurrect one or more of them, and then regain a significant amount of health.
 If you manage to weaken him beyond 50 percent, he will not be able to do this anymore, although this may be random as well.
-At 30 percent health, he will try to wipe you out with one of his most powerful moves in his arsenal. These are usually apocalypse moves.
+At 15 percent health, he will try to wipe you out with one of his most powerful moves in his arsenal. These are usually apocalypse moves.
 Besides all that, he also has a lot of moves that are designed to kill your manamon that are weak to said move. Here are some of its heaviest moves. If you hear overdrive, you are probably okay. If you hear apocalypse, however? Brace yourself, as it has a chance of instakilling one or more of your manamon.
 You are going to need to be very patient with this battle. If you lose a few times, it's completely okay. It is not your fault, this boss is just hard in general.
 You get a lot of experience for this battle, so enjoy.
@@ -4992,7 +4992,7 @@ Maybe entering the building nearby will give youa clue.
 _Ondermore's House
 There are actually two beds. One on the western side and one on the eastern side. Both can be interacted with. This time they will act like normal beds.
 Near the table you hear to the east is a person who is named Gorchaeli.
-They apparently get to go on the next adventure that Ogma, I mean ahem! the father, will take them, which is into the outer world.
+They apparently get to go on the next adventure that Oghma, I mean ahem! the father, will take them, which is into the outer world.
 That's pretty much all here.
 
 If you head east and then north from the house, you will find the inn, which is the central healing spot. This is where you would get dropped off at if you used your pocket copter.

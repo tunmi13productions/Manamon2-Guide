@@ -2,7 +2,7 @@
 Manamon 2 Walkthrough Guide
 Created by tunmi13, with Post-Game content written in collaboration with Kalahami
 Format: Plain Text
-Rev 02/08/25
+Rev 02/09/25
 
 *Starting Notes:
 This guide was made to assist those who are struggling or who are just beginning with Manamon 2. As such, not every manamon and/or piece of equipment are discussed in heavy detail, and not all items along the way (especially ones that are most likely hidden) are documented. This is not meant to fill a Manapedia (explained later) or learn about every piece of equipment. This is to help people get through the game.
@@ -5032,7 +5032,7 @@ And now, the final transformation is pulled off.
 @@Last Resort Protocol
 Level: 50
 This thing has quite a few tricks up its sleeve, see below.
-1. Mirror Shield. When this shield is up, you can not hit the Last Resort Protocol. It simply doesn't work. You need to shatter the shield first before you can regain access. Just keep hitting the protocol it until it shatters.
+1. Mirror Shield. When this shield is up, you can not hit the Last Resort Protocol. It simply doesn't work. You need to shatter the shield first before you can regain access. Just keep hitting the protocol it until it shatters. Alternatively, you can first hit the shield, then the protocol itself, which will both do some damage to it and to the shield.
 2. Bomb Box. This box must be destroyed as soon as possible. If it is not destroyed in at least 3 turns, it will explode, killing all manamon currently on the field.
 3. Vulnerability Protocol. This is a move, but it is still very important. It does not matter which manamon it uses it on. It is similar to the move Vulnerability Scan, but way more powerful. It will scan your manamon for its weakness, then hit you with the type it is weak to.
 Good luck killing this thing, and when you do, prepare to get the hugest load of experience and gold you have ever obtained in this game. You'll be scrolling for quite awhile.
@@ -5042,7 +5042,7 @@ Manamon Present: Vultair, Lantlare, Orystar
 He is absolutely pissed at the fact that Andromeda is going to die. You mean that the one you oh so disrespectfully created, not the real one...
 As the location title suggests, Requiem is now imploding in on itself.
 Sadly, you cannot save just yet. Escape or X does nothing anyway.
-I don't think there is a literal time limit here, but to be safe, your goal is to head southeast.
+There is no literal time limit here. Your goal is to head southeast.
 Most of it is just south wall, east until you find the gap, head all the way south, east, south, east, etc.
 There are also some western turns, like south, west, south, west, etc.
 Eventually, you will hear the familiar sound of the dimension portal, just like the one in the catacombs. Interact with it, and yes I'm saying this, prepare for yet another battle!
@@ -5052,9 +5052,9 @@ Level: 50
 Chaos Oghma is, well, Oghma. He's just in his godly state, you could say.
 In this battle, you and Andromeda team up to take him down. She summons 1 manamon, and you summon 2.
 You might remember the move Chaos Chamber. I'm sorry to say, that there are others.
-You could thing of them as amplified versions of original manamon moves. Chaos Swipe, Chaos Drench, etc. Chaos Drain is a dangerous one, so be careful.
+You could think of them as amplified versions of original manamon moves. Chaos Swipe, Chaos Drench, etc. Chaos Drain is a dangerous one, so be careful.
 They all do lethal, if not fatal amounts of damage. They also have a higher chance of doing critical damage, thus making it even more powerful.
-Andromeda does do her best to heal you if she notices your team is getting pummeled, but I wouldn't rely on that too much.
+Andromeda does do her best to heal you if she notices your team is getting pummeled, but I wouldn't rely on that too much. Even though it's  impossible to lose, it's still good to try and keep yourself in check too.
 This monstrosity is more about strength and less about defense, so taking it down should be easier than destroying the Last Resort Protocol. That doesn't mean you should relax, though.
 You will get experience and gold, but not as much as before.
 

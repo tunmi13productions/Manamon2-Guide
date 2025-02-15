@@ -2,7 +2,7 @@
 Manamon 2 Walkthrough Guide
 Created by tunmi13, with Post-Game content written in collaboration with Kalahami
 Format: Plain Text
-Rev 02/09/25
+Rev 02/15/25
 
 *Starting Notes:
 This guide was made to assist those who are struggling or who are just beginning with Manamon 2. As such, not every manamon and/or piece of equipment are discussed in heavy detail, and not all items along the way (especially ones that are most likely hidden) are documented. This is not meant to fill a Manapedia (explained later) or learn about every piece of equipment. This is to help people get through the game.
@@ -155,7 +155,7 @@ Head towards the northern wall. Hug it and take it west.
 A gap will open up to the north, walk through it, and you will start hearing a pinging sound nearby. This is a tamer.
 Tamers usually take up one square, or tile, of space. You will not be able to walk on top of them, and that restriction also applies to other objects in the game.
 Continue towards the northern wall. Once you reach it, take it west.
-You will eventually notice  that you will run straight into the poor thing with an arcade-like thump.
+You will eventually notice that you will run straight into the poor thing with an arcade-like thump.
 Step one tile backward to go around the tamer, and then continue a bit west. A gap will open up right to their left in the northern wall. Head north through it.
 Once the walls open up on either side, head towards the eastern wall. The tamer that you would encounter before the gap to the east is actually one tile in front of the gap. You can slip right past them.
 Once through the eastern gap, the north will be open. Head north to the next wa... oh wait a second!
@@ -386,7 +386,7 @@ Type: Insect
 This is a decent insect type manamon which, from my past journeys, has quite a bunch of insect moves up its sleeve. It eventually transforms into Centiplex, which is a bit stronger.
 I personally do not like Centiplex all that much, since I feel like it takes way more damage than it should. But it's definitely out there if you are looking for an insect type that is dedicated to being full of insect moves.
 
-This map is pretty simple to navigate, but of course, I'll help. Feel fre to train your starting manamon here as well, as  feral manamon do show up quite frequently.
+This map is pretty simple to navigate, but of course, I'll help. Feel fre to train your starting manamon here as well, as feral manamon do show up quite frequently.
 Hug the northern wall, being sure to snag the item there. It's an antidote, used for curing the poison status effect.
 When you reach the eastern one, follow it south. A gap will open up, take it east.
 Make your way towards the wall to the north, then follow it to the east. Another gap will present itself, take it north.
@@ -779,7 +779,7 @@ Just be warned, you can't catch these easily. You're going to need to toss a few
 
 Heading south of that Turrubble, you will find a baby net. This net works best on manamon which have not transformed yet. For example, it will work way more efficiently on a Cacone instead of a Bombusect.
 Head out of that gap, then follow the southern wall east. You'll find another rock... oh wait, look! It's another Turrubble!
-Just for context, due to its structure, Turrubble will usually resemble a  rock because it buries itself in the sand. You will sometimes find rocks that turn out to be a Turrubble throughout your journey. This valley just happens to contain 2 of them.
+Just for context, due to its structure, Turrubble will usually resemble a rock because it buries itself in the sand. You will sometimes find rocks that turn out to be a Turrubble throughout your journey. This valley just happens to contain 2 of them.
 Anyways, defeat it, or capture it, your choice. This is the gap we actually want to go through, so you will need to do either one.
 Now that the path is free, head east. Hug the southern wall, then when you reach the eastern one, take a few steps north.
 The eastern wall will open up. Head east through it and prepare to face off against a tamer.
@@ -1037,7 +1037,7 @@ _Solphear Cave
 There is not a whole lot you can do here quite yet besides fight random manamon, but there is one thing that you can do that you may find beneficial.
 From the entrance, head west, staying against the northern wall for guidance.
 Eventually you will hear a person to the south. Head toward them.
-The person is named Amber, who is a geologist willing to give you a pretty good prize if you bring a manamon  named Limewurm, simply for examination and not to take it from you.
+The person is named Amber, who is a geologist willing to give you a pretty good prize if you bring a manamon named Limewurm, simply for examination and not to take it from you.
 ***Spoiler***. The prize is a level 10 Yakshine.
 Just be warned, Limewurm is extremely rare to find in this cave. You will be searching for quite a long time. If not, that's amazing, because it took me ages just to find it.
 Around the cave, I cannot remember where exactly, you will find a haunted hat. I feel like this does not need its own equipment header, since all it does is boost ghost moves by 25 percent with no penalties.
@@ -1285,7 +1285,7 @@ Well, I'm sorry you don't like stadiums so much. And stuffy and boring? Damn, wa
 @Lad Caesar
 Frolop is level 15
 Doving is level 15
-What is it with this guy and  Hazel?
+What is it with this guy and Hazel?
 
 There is a path north of Caesar, so head through it.
 You will eventually hear a ladder, so head up.
@@ -1337,7 +1337,7 @@ Also what do you mean by you don't have all day? You're the one deciding to put 
 
 @Byron
 Hilimer is level 16
-Gowater, Ribignis, or  grenaverb is level 18
+Gowater, Ribignis, or grenaverb is level 18
 Gowater is the transformation of Kiduddle, Ribignis is the transformation of Lavrog, and Grenaverb is the transformation of Grekko.
 What a dumbass. How would he know if someone is prepared for a stadium or not? Get lost.
 
@@ -1408,7 +1408,7 @@ The next building you'll start to hear is the mana hotel. Again, if you need to 
 Go around the mana hotel, and head east to avoid the ladder. Once the ladder is behind you, start heading west and north. The stadium is in the northwestern section of the city.
 Also regarding the bird that keeps flying away from you, that's a Hydrobird. No, you cannot capture it, sadly. And no, I will not cover it here for that reason.
 You will start to hear a door, and Byron is there!
-Kidding, kidding. Remember, he's  not blocking the door anymore. Head inside.
+Kidding, kidding. Remember, he's not blocking the door anymore. Head inside.
 
 _Solphoa Stadium
 Type: Water
@@ -1637,7 +1637,7 @@ When you reach the western wall, start heading north, and you will find other it
 Continue north, and you will start to step on debris. You are fine, just continue north.
 Once you reach the northern wall, start heading east.
 You will eventually find a treasure chest. If you have a key, go ahead and open it to get 2 strong herbs, and a headstone amulet.
-The amulet can only be worn by  undead manamon, but it makes it immune to holy attacks and boosts its undead attacks, more specifically, a 10 percent boost. No penalties either!
+The amulet can only be worn by undead manamon, but it makes it immune to holy attacks and boosts its undead attacks, more specifically, a 10 percent boost. No penalties either!
 Now head back west, and stick to the northern wall. Once you reach the western wall, follow it south.
 You want the furthest gap to the right on the southern wall. Do not take the one on the left, that's the dead end I mentioned previously.
 Now head back south through it, and keep to the western wall. A gap will eventually appear, so take it west a few steps.
@@ -1870,9 +1870,9 @@ Head north toward the gap we just came out of. Then head east. Then...
 I'm kidding, I'm kidding. Let's go.
 
 _Route Roshaw
-Manamon Available: Rosa, Leafowl, Murkit, Buppig, Rootle
+Manamon Available: Roazah, , Leafowl, Murkit, Buppig, Rootle
 
-#Rosa
+#Roazah
 Type: Plant and Poison
 This thing is quite a deadly plant and poison type. I've used it a few times, and I can say that it is definitely hard to defeat if you don't have the right manamon to do so. It gets some pretty good poison and plant moves, and solar conversion which boosts its strength and defense, making it even more of a force to be rivaled with.
 It eventually transforms into Thornita somewhere in the early 30s.
@@ -2081,7 +2081,7 @@ If you have it, you will be able to travel north or south across the water in fr
 If you are on either side, he will be there, so no worries about being trapped once you go through.
 Interact with him once more, and when he asks, select Yes. You will be dropped off on the opposite side.
 From the drop off point. Head to the eastern wall, then travel north. When the wall disappears, travel east, until you reach the next eastern wall.
-Stepping forward will be another musical puzzle, but this time it will be arranged north to south, with the lowest note being  the one all the way south and the highest note being the one all the way north. Quartantula awaits you to the north, so interact with him for the sequence.
+Stepping forward will be another musical puzzle, but this time it will be arranged north to south, with the lowest note being the one all the way south and the highest note being the one all the way north. Quartantula awaits you to the north, so interact with him for the sequence.
 This one is easy. It's just all 5 webs, starting from the south and then heading all the way to the north. So click on all of them in that order.
 Once Quartantula is gone, head north through the gap, where a tamer awaits your arrival.
 Oh, another one of those insect collectors. Goodness, the lot of you!
@@ -2138,7 +2138,7 @@ This is a Symphonid, the final transformation of Quartantula. But it isn't just 
 @@Hyper Symphonid
 Level: 25
 This Hyper Symphonid lets you land moves which are effective against sound and insect types, however there is a catch.
-This Symphonid  spins webs, which dictate which type of attacks should be landed on it. Using the incorrect type of attack will cause the web to snap, and instantly kill the manamon that used the incorrect attack.
+This Symphonid spins webs, which dictate which type of attacks should be landed on it. Using the incorrect type of attack will cause the web to snap, and instantly kill the manamon that used the incorrect attack.
 If it spins a red web, it means that any attack you land on it must be a Special attack. Pay close attention to the move set of the manamon you are using to attack it, and be sure that the move says that it is a special one. This is usually spoken right after the name of the move.
 If it spins a white web, it means you must use physical attacks. Same applies, check that the move you are using is physical.
 Remember, since this is a hyper manamon, it is harder to kill, and its attacks are way stronger. Be really careful of one of its strongest moves, which is Attack Concerto. It deals really significant damage, especially if you have a manamon who is not resistant to sound type attacks.
@@ -2206,7 +2206,7 @@ Head north all the way through this central area. There is nothing in it, don't 
 You will eventually hear chimes leading north. That is the exit you want. Onward!
 
 _Brytanburg North
-In the northern section of Brytanburg, slightly west of the exit, , is the most important building, that being the stadium.
+In the northern section of Brytanburg, slightly west of the exit, is the most important building, that being the stadium.
 NOTE: For those playing the demo version, you can fight all the tamers in the stadium. However, you may not fight the stadium leader. I would hold off on fighting the tamers and the stadium leader until you have registered the game.
 Near the stadium, almost parallel to it, is a cafe. We are not going to go here quite yet, but keep it at the back of your mind.
 If you follow the western side of the stadium north, you will reach another building. Head inside.
@@ -2229,7 +2229,7 @@ I don't really consider buying this one, though it is totally up to you. I usual
 
 $Slingshot Blaster
 Another one of those pieces of equipment where the description doesn't specify what is decreased. Quite sneaky.
-Although this gives  the manamon you equip this on the move rock barrage, it also decreases its defense by 5. Just keep that in mind when utilizing it. It's not a severe penalty, however.
+Although this gives the manamon you equip this on the move rock barrage, it also decreases its defense by 5. Just keep that in mind when utilizing it. It's not a severe penalty, however.
 
 $Rapid Cloak
 This piece is quite a nice one, though pay attention to how much penalties are involved. The attack (both physical and magic) and defense (both physical and magic) receive pretty bad penalties. Put this on a frail manamon and it would probably crumple faster than you could say manamon.
@@ -2329,9 +2329,9 @@ Thornita is level 32 with a Berserk Club equipped
 Hydrake is one you have probably not seen before. It is a plant and water type, making it hard to get rid of. I managed to beat it with an air type though, so if you have one, take advantage of it. Flame types will not be the best, it has water moves so don't bother.
 Plumirage is a bit of a difficult one. Since it has a willow hammer, which boosts plant attacks, it's going to be a bit of a problem. However, the hammer's downside is that it makes the manamon weaker to flame type attacks. That being said, use a flame type if you have one, and you should be able to defeat it.
 Treezon is a plant and poison type (see above on how to get it) and it doesn't have anything equipped. This is because it already comes with some pretty deadly moves, nature smash being one of them. The more it uses it, the stronger the move. This only applies if it hits 3 times, meaning if it misses, it resets to its default amount of damage.
-Thornita is the transformation of Rosa, also a plant and poison type. Be careful, because it does come with some pretty deadly poison moves. If you have an ice, flame or air type, take advantage of it. Don't use an insect type, it'll wreck it. Watch out, it has a berserk club equipped, so just like Plumirage, it's going to be a bit of a challenge.
+Thornita is the transformation of Roazah, also a plant and poison type. Be careful, because it does come with some pretty deadly poison moves. If you have an ice, flame or air type, take advantage of it. Don't use an insect type, it'll wreck it. Watch out, it has a berserk club equipped, so just like Plumirage, it's going to be a bit of a challenge.
 Anyways, I wish you luck.
-Once you are done, you will get the crop key (congrats on the third stadium), and a nice little piece of equipment called a Root Point. This boosts attacks that drain health by 50 percent, with zero penalties. If you have a manamon that does a lot of health draining, such as a Rosa or its transformation Thornita, take advantage of this.
+Once you are done, you will get the crop key (congrats on the third stadium), and a nice little piece of equipment called a Root Point. This boosts attacks that drain health by 50 percent, with zero penalties. If you have a manamon that does a lot of health draining, such as a Roazah or its transformation Thornita, take advantage of this.
 
 Alright! That's 3 stadiums down!
 Now that we are done here, let's head back.
@@ -2561,7 +2561,7 @@ Eventually you will reach open space. Go ahead and head west, we'll go east late
 
 _Equipment Engineer's House
 The person near the door doesn't really have anything significant to say, except I'm pretty sure we all know who the magic fool is. Starts with an E and ends with an N.
-The person you are aiming for is the equipment engineer, which is in  the western portion.
+The person you are aiming for is the equipment engineer, which is in the western portion.
 Do keep in mind that a lot of this equipment is very pricy, but they are also quite worth it. I won't be listing them here, but remember to take my advice. N to check its descriptions, but then use the other keys to check for any hidden advantages and/or disadvantages.
 That's all there really is in this house, so let's head out.
 
@@ -2748,7 +2748,7 @@ Head south out of Brytanburg North, then in central, head east, where you can fi
 _brytanburg East
 Take a few steps north, I'd say until you hear a person not too far off, then start heading east. It's just open space for now.
 Eventually, you'll encounter a building. Move around it to the south, then continue east. You will come to some grass, so start heading north just a little bit.
-You will reach the house, with two trees  and a fountain, just as she described. Save, and then show Sangora inside.
+You will reach the house, with two trees and a fountain, just as she described. Save, and then show Sangora inside.
 
 _Mercilla's House
 Well, she's back where she needs to be. But it looks like it's confession time.
@@ -4242,7 +4242,7 @@ To get past it, wait for the current to receed, then dash north. Listen for a ga
 Now, head to the northern wall, and follow it west. When it opens, continue north.
 Stick to the eastern wall, and we are going to start zigzagging a little. When the eastern wall veers, head east. Keep going north, and it will veer again, so head east. North, east, north, etc.
 When it evens out, follow the eastern wall south, and when you are able to go south, do so.
-When you head south, you will quickly come in contact with the next wall to your south. Start heading west from here, and you will run into  the right side of a cannon.
+When you head south, you will quickly come in contact with the next wall to your south. Start heading west from here, and you will run into the right side of a cannon.
 We want to launch to the left, so head south around the back of the cannon, and loop around so that it is to your right. Then, fire!
 Now, follow the northern wall west. Ignore the cannon to your left, we don't need it anymore. Instead, find the opening in the northern wall, and keep heading north.
 Once you reach the next northern wall, you will hear the door to your left. Find it, and interact with it.
@@ -4636,7 +4636,7 @@ Continue west even when it opens up to the north.
 Once you find the western wall, follow it north. A gap will come up, so take it west.
 Once you reach the western wall, head all the way north for the next door. Open it with Underground Key 3.
 
-Now in this room, save. Time for a very  intense fight. This is perhaps one of the most intense ones in this game.
+Now in this room, save. Time for a very intense fight. This is perhaps one of the most intense ones in this game.
 
 Head north, and we will come face to face with someone we all know too well.
 Nice to see you again, Byron. Haven't changed much I see.
@@ -4647,7 +4647,7 @@ Level: 50
 Sorry to say, but Byron isn't the only one you have to fight in this battle.
 He also summons the following manamon.
 Molandon is level 40
-Kaboerain,  Bamboustica, or Golavath is level 40
+Kaboerain, Bamboustica, or Golavath is level 40
 Marlaunt is level 40
 Daggeetle is level 40
 Pegastorm is level 40
@@ -4918,7 +4918,7 @@ Get to the right of the person, and disrespectfully shove them west to the next 
 Do not shove them all the way to the western wall. Instead, get in front of them. Push them south so that they are two steps from the wall, meaning that if you bump into the southern wall, trying to go north will cause you to bump into the person.
 Now, push them east until you hear a thud. 1 out of 4.
 If you go south of the room and then east, you will find the table.
-Get behind it, and push it 10  times north.
+Get behind it, and push it 10 times north.
 Check to make sure you are lined up correctly. Head west and see if the tamer is directly behind you.
 If so, go back to the table, get on its right side, and push it all the way west until you hear a thud. 2 out of 4.
 The bench is in the room southeast of the one with the person and the table so far. Head back east, then a bit south to aim for that room.
@@ -5054,7 +5054,7 @@ In this battle, you and Andromeda team up to take him down. She summons 1 manamo
 You might remember the move Chaos Chamber. I'm sorry to say, that there are others.
 You could think of them as amplified versions of original manamon moves. Chaos Swipe, Chaos Drench, etc. Chaos Drain is a dangerous one, so be careful.
 They all do lethal, if not fatal amounts of damage. They also have a higher chance of doing critical damage, thus making it even more powerful.
-Andromeda does do her best to heal you if she notices your team is getting pummeled, but I wouldn't rely on that too much. Even though it's  impossible to lose, it's still good to try and keep yourself in check too.
+Andromeda does do her best to heal you if she notices your team is getting pummeled, but I wouldn't rely on that too much. Even though it's impossible to lose, it's still good to try and keep yourself in check too.
 This monstrosity is more about strength and less about defense, so taking it down should be easier than destroying the Last Resort Protocol. That doesn't mean you should relax, though.
 You will get experience and gold, but not as much as before.
 
@@ -5107,7 +5107,7 @@ He gives you a Cofena.
 #Cofena
 Type: Magic and Steel
 This camera, ahem um, I mean manamon, is quite a pain when it reaches higher levels. It's defenses are quite reasonable, and its attacks are heavy, if not devastating. You could give this thing a Steel Rapier, for instance, and greatly amplify its steel type moves. Or you could give it a magic-based piece of equipment. It's up to you.
-It  evolves into Cofatena in the early 30s.
+It evolves into Cofatena in the early 30s.
 
 Alright, let's get going!
 First off, Tradale Village. It's pretty easy to reach.

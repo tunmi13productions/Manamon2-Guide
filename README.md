@@ -42,5 +42,12 @@ If you wish to modify or expand this guide, please follow these rules:
 If you haven't downloaded Manamon 2 yet, you can get it from the following page:
 [Download Manamon 2](https://www.vgstorm.com/manamon2.php)
 
+
+## Keeping Up to Date with the Guide
+For those who would like to keep up with the guide as it evolves, I have made this tool. It's a bit big in size, but hopefully it helps those who would rather get the guide by running a file or two.
+
+You can obtain the tool here:
+[Download Manamon 2 Guide Retriever Tool](https://tunmi13.com/projects/manamon2guide.zip)
+
 ## Note
 The post-game content is currently not written. We plan to continue writing it in the future, however.

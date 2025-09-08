@@ -12,9 +12,10 @@ This guide may also contain jokes that might trigger some individuals. These jok
 Any key bindings that require modifier keys will be represented as MODIFIER plus KEY. For example, Control plus F.
 
 *Navigation:
-In this guide, you are able to use the following symbols to navigate between different parts for a more concise experience. This excludes the top section, which is just general details about Manamon, which are simply navigated by using the * (asterisk) symbol.
+In this guide, you are able to use the following symbols to navigate between different parts for a more concise experience. This excludes the top and bottom section, which are simply navigated by using the * (asterisk) symbol.
 To achieve the expected result, these symbols are typed in a search bar of a text editor, and then utilizing the Find again feature. For Notepad users, this would be Control plus F to perform a search, and then pressing F3 to find the next match, and Shift plus F3 to find the previous match.
 The symbols are as follows.
+* (asterisk): Navigates by major sections in the guide (as explained above).
 _ (underline): Navigates by areas, such as maps, scenes, etc.
 @ (at symbol): Navigates by game battles.
 @@ (two at symbols): Navigates by major battles in the game, such as boss battles, stadium battles, etc.
@@ -783,7 +784,7 @@ Just for context, due to its structure, Turrubble will usually resemble a rock b
 Anyways, defeat it, or capture it, your choice. This is the gap we actually want to go through, so you will need to do either one.
 Now that the path is free, head east. Hug the southern wall, then when you reach the eastern one, take a few steps north.
 The eastern wall will open up. Head east through it and prepare to face off against a tamer.
-Oof, sprained your angle on a Turrubble? I'm sorry.
+Oof, sprained your ankle on a Turrubble? I'm sorry.
 No seriously, I genuinely am. They're big rocks, after all.
 
 @Gentleman PJ
@@ -1038,7 +1039,7 @@ There is not a whole lot you can do here quite yet besides fight random manamon,
 From the entrance, head west, staying against the northern wall for guidance.
 Eventually you will hear a person to the south. Head toward them.
 The person is named Amber, who is a geologist willing to give you a pretty good prize if you bring a manamon named Limewurm, simply for examination and not to take it from you.
-***Spoiler***. The prize is a level 10 Yakshine.
+. . . Spoiler. The prize is a level 10 Yakshine.
 Just be warned, Limewurm is extremely rare to find in this cave. You will be searching for quite a long time. If not, that's amazing, because it took me ages just to find it.
 Around the cave, I cannot remember where exactly, you will find a haunted hat. I feel like this does not need its own equipment header, since all it does is boost ghost moves by 25 percent with no penalties.
 Alright! With that all out of the way, let's return to Vermechaw.
@@ -1615,7 +1616,7 @@ The bed is in its usual spot, as well as the transportal. However, since this is
 I personally find this to be a perfect place to train your manamon. Not only is there a bed which is convenient for healing up and constantly battling, but there is also a transportal, so you can exchange manamon if you wish.
 Where the person in the northeastern section would usually be, is actually a gap. If you head north through it, there is a chest. This chest however, is locked, and you require a treasure chest key.
 As previously mentioned in this guide, you require a treasure chest key to open these.
-***Spoiler***. The chest contains 2 revives, and an element guard. The element guard gives 10 percent protection against flame, water and plant attacks, but your manamon's strength and magic attack are slightly decreased.
+. . . Spoiler. The chest contains 2 revives, and an element guard. The element guard gives 10 percent protection against flame, water and plant attacks, but your manamon's strength and magic attack are slightly decreased.
 Whether you choose to open the chest or not is completely up to you.
 If you wish to train your manamon here, do so. Otherwise, heal up, and we are going to go on yet another adventure. And not a fun one either.
 
@@ -2416,7 +2417,7 @@ If you head south of the YGC shop, you will come to another building to the sout
 
 This is a house. And there is a person who you can interact with more than once. They think you are some sort of cop.
 The more you interact with them, the more agitated they get. Eventually, they give in, and they tell you a nice secret about a symbol carved into a tree. Can you guess where that is?
-***Spoiler***. It is in Thunder Prairy, under the tree with the symbol carved into it. In order to get under, you will need a manamon with the move tunnel. Hilimer gets tunnel pretty early, and you can find it in Struttal Cave. Train it until it gets tunnel, then tunnel under the tree. You will find some pretty bad ass stuff down there, one of them being an item detector, which lets you detect hidden items when used within a short radius! Pretty cool! You also get some jewels, and a hefty pile of gold.
+. . . Spoiler. It is in Thunder Prairy, under the tree with the symbol carved into it. In order to get under, you will need a manamon with the move tunnel. Hilimer gets tunnel pretty early, and you can find it in Struttal Cave. Train it until it gets tunnel, then tunnel under the tree. You will find some pretty bad ass stuff down there, one of them being an item detector, which lets you detect hidden items when used within a short radius! Pretty cool! You also get some jewels, and a hefty pile of gold.
 Okay, enough harassing. We have made a fool of ourselves! And I have instructed this ridiculous act; Blame me!
 
 So I'm guessing this is like, Manamon's version of the south side. Scattered throughout Brytanburg South are some thieves you can battle. They are optional, but that's only if you give them a wide birth. Otherwise, you are facing off with them. One of the thieves just so happens to be to the west of the house we just emerged from. And even better, a person to the north confirms; This is the bad side.
@@ -2953,7 +2954,7 @@ You will start to hear a door. Move in the direction of it, and head inside.
 
 _Speed Coach's House
 In this house, you can have a person examine your manamon and tell you about how good their speeds are. If all of the manamon you have are fast enough, he will reward you.
-***Spoiler***. It is a really cool item. If you are training a manamon, attempts to flee will always succeed. This obviously does not work when fighting enemies, only feral manamon.
+. . . Spoiler. It is a really cool item. If you are training a manamon, attempts to flee will always succeed. This obviously does not work when fighting enemies, only feral manamon.
 Alright. Let's head out of the house, and back into Seulee. Head south, then east back into the city.
 
 _Back in Seulee City
@@ -3228,7 +3229,7 @@ Interact with this machine, and it will say it needs a peripheral device.
 Head west to Oghma's bedroom, and interact with his bed. This will use the rope to retrieve the device that is unabled to be reached.
 Now, go back to this machine, and interact with it.
 It will ask you to enter the password. You get numerous options.
-***Password Spoiler***. If you would rather not go through the hastle of trying each and every password, the correct one is Omilis.
+. . . Password Spoiler. If you would rather not go through the hastle of trying each and every password, the correct one is Omilis.
 Now, we are in a different area of the house. The teleporter you hear takes you back to the main area.
 Head to the southern wall, then follow it west. When it opens up, head south.
 When you reach the next southern wall, head west. When it opens up, head south a few steps.
@@ -4983,11 +4984,14 @@ North of the pit is a building that we can head into.
 
 _Requia's Builder's Quarters
 There's not a whole lot in here. One builder is praising their effort on how well the castle was made. I must say, it is quite imposing.
+In fact, it's in the far northern area of this place. If you go in, it's mostly just a bunch of tamers you can face off against, several items scatterd about, and one important place that will be discussed later.
+If people wish for me to document the castle in further detail, I am able to. But we're at the Edge of the World, so it's probably better to just get all of this over with.
+
 There are two gaps in the northern wall, each leading into rooms with a few beds. The one on the right has a person who says it would be cool to be one of Andromeda's servants.
 That's pretty much it here.
 
 Head east of the building, and you will hit a wall. You may be familiar with this general area.
-Maybe entering the building nearby will give youa clue.
+Maybe entering the building nearby will give you a clue.
 
 _Ondermore's House
 There are actually two beds. One on the western side and one on the eastern side. Both can be interacted with. This time they will act like normal beds.
@@ -5006,6 +5010,7 @@ Alright. Back to the pit south of the Builder's Quarters, which will take us to 
 _Back in Edge of the World
 Alright, it's time to live, or die! Who knows.
 Before you head through the gap in the northern wall, save, and prepare yourself.
+Also, use an Encounter Down, Ultra encounter Down being the best. You may think I'm being ridiculous, but you'll know why soon enough.
 As you walk north, Oghma appears, clearly in rage.
 He has this notion that he can just get rid of you, and fix up this, apparently minor damage you have caused. Let's see him try!
 She's still alive, and she was the first creation. Which means he definitely still has time. To ensure that this lasts...
@@ -5042,7 +5047,7 @@ Manamon Present: Vultair, Lantlare, Orystar
 He is absolutely pissed at the fact that Andromeda is going to die. You mean that the one you oh so disrespectfully created, not the real one...
 As the location title suggests, Requiem is now imploding in on itself.
 Sadly, you cannot save just yet. Escape or X does nothing anyway.
-There is no literal time limit here. Your goal is to head southeast.
+There is no literal time limit here. Your goal is to head southeast. If you used an Ultra Encounter Down, this process will be much easier.
 Most of it is just south wall, east until you find the gap, head all the way south, east, south, east, etc.
 There are also some western turns, like south, west, south, west, etc.
 Eventually, you will hear the familiar sound of the dimension portal, just like the one in the catacombs. Interact with it, and yes I'm saying this, prepare for yet another battle!
@@ -5074,7 +5079,7 @@ But you also have some explaining to do.
 _Back at Brytanburg in Mercilla's House
 Welcome back to reality!
 You can recognize the music. There is only one house that has a guest room labeled in Brytanburg, so it is Mercilla's 
-You might want to save! Unless you want to do those three battles all over again!
+You might want to save! Unless you want to do those  battles all over again!
 Heal up, save, then head east.
 
 As you walk out of the room, you thank Mercilla for letting you stay.
@@ -5088,7 +5093,8 @@ Mordunt Island
 Sonasette City 
 Of course, you can jump to whichever section you want to start with, as I will be detailing everything.
 Isn't it so wonderful to exist right now?
-We invaded a hideout. We got teleported to a different country, explored a rainforest in said country, and went through a shrine. We then saved a village from a murder incident, traveled across a plateau, back into Kiarre.
+We found a guy named Oghma on a strip of sand, then helped him get rid of the museum thieves that he hired himself. We ran into him several times, meanwhile dealing with a hyper robot (ahem I mean Mondevol), learning that there are more. This was confirmed by facing off against a ghostly man, and then a giant spider which was Hyper Symphonid.  We finally ran into a dragon with a dino statue. But things don't stop there!
+Nope. We find out Oghma is a bad person. We invaded a hideout. We got teleported to a different country, explored a rainforest in said country, and went through a shrine. We then saved a village from a murder incident, traveled across a plateau, back into Kiarre.
 Then, we broke a machine, went through an entire studio full of traps and mechanisms, discovered Oghma's purpose with the super computer and how he got it working, and even followed him into a different dimension.
 We then traveled throughout the entire dimension, all the way to the edge, disconnected a poor hedgehog from a torture setup, and defeated three versions of what finally turned out to be the Last Resort Protocol.
 Finally, to top it off, we destroyed Oghma, the world fell apart, and you were almost deleted yourself.
@@ -5218,7 +5224,7 @@ If you stick to the western wall and follow it north, you will find a gap in the
 You will explain to her that you don't know what she does. However, she explains this to you.
 She is all about time.
 And apparently, she somehow has a time machine. And she also apparently knows that you have been through Requia, and is offering you the chance to revisit it.
-If you didn't get a chance to see Requia or other parts of the pocket dimension, this is your chance.
+If you didn't get a chance to see Requia in its entirety, this is your chance.
 Head through the now open gap, and around Corona. There will be another gap in the western wall that you can take further west.
 Again, find another gap in the western wall and continue west.
 Finally, head south to hear a very strange machine.
@@ -5228,7 +5234,7 @@ There are some slight differences here that you will notice.
 For one, there is now a teleporter near here that will send you straight to the western end of the catacombs, near the entrance of the hill.
 There is a similar teleporter on the other end which will bring you back here.
 Go and leave as you please.
-There are things here you can do later, but Kalahami will be the one directing you.
+There are things here you can do later, but that will be discussed in the post-game section of the guide.
 Once you are done, go back to the normal portal. Instead of taking you back to the super computer, it will bring you back to the time machine.
 
 Alright, time to head out.
@@ -5253,7 +5259,7 @@ To move the letters around, use your interaction key, move your cursor to the le
 To hear your currently formed word, use your up or down arrow.
 Once you are finished, use Shift plus your interaction key to submit your answer.
 Usually, when you complete a puzzle, you will have to battle the person that gave you the challenge.
-***Spoiler***. The word you want to spell is "scale."
+. . . Spoiler. The word you want to spell is "scale."
 
 @Dragon Keeper Queen
 Ohmeleon is level 52
@@ -5264,7 +5270,7 @@ Why thank you.
 Head slightly west, then north to the northern wall. Find the gap in the northern wall to the west, and continue north through it.
 Now, head west, following the northern wall.
 There's another word you have to unscramble.
-***Spoiler***. It's "dragon."
+. . . Spoiler. It's "dragon."
 
 @Dragon Keeper Pascal
 Amthysto is level 55
@@ -5272,7 +5278,7 @@ What nice people.
 
 Head west a ways to expose a gap in the northern wall, and continue north.
 At the next northern wall, head west for another challenge.
-***Spoiler***. The word is "treasure."
+. . . Spoiler. The word is "treasure."
 
 @Dragon Rider Landon
 Ohmeleon is level 51
@@ -5280,7 +5286,7 @@ Dragetull is level 53
 It was, for me at least.
 
 The next puzzle is south.
-***Spoiler***. The word is "terrorize."
+. . . Spoiler. The word is "terrorize."
 
 @Dragon Rider Sapphire
 Dramegon is level 54
@@ -5289,7 +5295,7 @@ Thanks.
 The next puzzle is a bit further.
 Head all the way south, then follow the western wall north. A gap will be available in the western wall, so take it.
 This person, you actually have to interact with.
-***Spoiler***. It's the name you chose for your character. In my case, "Tunmi."
+. . . Spoiler. It's the name you chose for your character. In my case, "Tunmi."
 
 @Dragon Rider Angel
 Ohmeleon is level 52
@@ -5298,9 +5304,9 @@ Amthysto is level 52
 Roar to you too, I guess?
 
 The next puzzle is north until you reach the northern wall, then west.
-This puzzle is a bit different. AGain, interact with them.
+This puzzle is a bit different. Again, interact with them.
 Instead of arranging letters, you arrange words.
-**Spoiler***. The words in the correct order are, "The stadium leader is ready to battle."
+. . . Spoiler. The words in the correct order are, "The stadium leader is ready to battle."
 This person doesn't require you to battle them, but they warn you about Tatsuo. She is indeed difficult to defeat.
 Tatsuo is southwest of the area you were just in, and boy does she put up a fight.
 Save, and get ready!
@@ -5588,7 +5594,7 @@ _Sonasette's Manamon Marketplace
 This marketplace has the standard stock that previous markets have had, except this one comes with a few perks.
 For one, sweet and silver tonics are sold here. They are quite pricey, but given their rarity in the game, I personally think it's fair.
 For two, this marketplace pretty much grabs everything from prior ones, and crams them into this one. Mananets, meganets, giganets, etc, they are all here.
-Lastly, there is a nice little piece of equipment ere.
+Lastly, there is a nice little piece of equipment here.
 
 $Firebrand
 This is quite a nice piece of wood. It increases flame attacks by 25 percent.
@@ -5668,7 +5674,6 @@ In this particular area, you need to slide up the stairs on a large piece of ice
 Take 2 steps right. I'd recommend starting from the left side so you can line it up exactly. Then, slide forward, and up the stairs.
 
 _Ascendance Path F2
-
 Head north, then east for your first tamer.
 Note that these are experienced tamers, so they are likely to have medicinal items.
 It does have some flare.
@@ -5681,7 +5686,7 @@ Blade Dodderator is level 55
 If you want to interact with him to find out how he got his name, feel free.
 
 Head around Cross. You will notice that there is a boulder to the north. Push it north until you are able to go west, then do so.
-Prepare to fight the next tamer,who is touring the Ascendnace Path. He found interest in Kiarre's it seems.
+Prepare to fight the next tamer,who is touring the Ascendance Path. He found interest in Kiarre's it seems.
 
 @Guitarist Chuck
 Ninjarkin is level 57
@@ -5794,7 +5799,7 @@ From the chest, head east, and you will here another chest. Open it to obtain...
 Oh, hi there, Pandourbit!
 And guess what? It's catchable! If you really want it, now's your chance! After all, you're back in the real world.
 Use the 5 giganets you have if you plan to catch it if you didn't have nets before; That's why I made you go west first.
-Now, head back to the western wall, and head back south to the stairs.
+Okay, back on route. Head back to the western wall, and head back south to the stairs. Do not  go down.
 From the stairs, head west. The wall to the north will open up somewhere around here, so find it and continue north for a tamer.
 Goodness, another reporter?
 
@@ -5855,7 +5860,7 @@ Web 1 is all the way to the right, and web 5 is all the way to the left. Quartan
 Here is the sequence.
 Web 4, web 3, web 5, web 1, web 2
 head through the exposed gap for another tamer.
-What's with you guys trying to find suspicious manamon? This guy's brother is Donald, and hat was way back in the guide when we were facing off against level 30 manamon.
+What's with you guys trying to find suspicious manamon? This guy's brother is Donald, and that was way back in the guide when we were facing off against level 30 manamon.
 
 @Detective Kyle
 Jagzeom is level 58
@@ -6167,6 +6172,7 @@ Maustodon is level 65
 Brain Dodderator is level 66
 Kamadeir is level 66
 Volanteral is level 64
+It was an honor to fight you as well. Thank you for all your help.
 
 And now, celebrate. You have just completed Manamon 2, from start to finish!
 So many challenges have come up, and so many events have occurred. And yet, look where we are!
@@ -6185,5 +6191,308 @@ It's his turn to help you guys, and he will be writing about the post-game.
 I'll be editting and correcting like he editted and corrected me, so we're essentialy swapping roles.
 If you need any further assistance, you can find me on Mastodon (tunmi13@mastodon.social), X (@tunmi13prod), Discord (tunmi13#1880) or by e-mail (tunmi12@mail.com).
 And with that, I'm out!
-See you guys later! Kalahami, take it from here.
+See you guys later!
 
+*Post Game: It All Starts Here
+Author: tunmi13
+So after some considerations, not all sections will be written by Kalahami. Below each section, the author will be placed below the title.
+
+Congratulations!
+You've completed Manamon 2, or are returning to a completed Manamon 2 save. Either way, this section will help you get the most out of Manamon 2 after the completion of the game.
+What exactly can you do after completion?
+Well, as I mentioned at the end of the main guide, there are some places you can now get to, or items you can now interact with, that you probably were not able to interact with before, or might have slipped your mind.
+First, let's start with places.
+
+*The Real Master
+Author: tunmi13
+Upon defeating the master stadium, you can go fight the original manamon master, Rubin. As you may recall, Rubin was the master Norman fought before his Dragomier did  fatal damage to Norman.
+Copter to the Master Stadium, and head east around the building. You will hear a transition to the north, so walk through.
+
+_Master's Heights
+Manamon Available: Undocumented (Coming Soon)
+Just keep walking north, you'll reach him eventually. A long meaningful conversation occurs between the two of you, then it's battle time!
+
+@Manamon Master Rubin
+Golavath is level 100 with a Firebrand equipped
+Bamboustica is level 100 with a Jungle Javelin equipped
+Kaboerain is level 100 with an Ocean Rock equipped
+Shadyena is level 100 with a Megaphone equipped
+Dragomier is level 100 with a Secondary Scale Uniform equipped
+Javoltrik is level 100 with a Yellow Star equipped
+A lot of these manamon and this equipment should be self-explanatory by now, so I won't cover anything major. Just watch out for the big bad dragon and the three starters.
+You get tons of gold for this as well.
+Once you have battled him, interacting with him yields nothing, not even a single word. That being said, we're done hanging out with him.
+
+In this area, you can train up your manamon, or catch new ones. The water-like area to the north doesn't actually contain any water or ice type manamon, which is a bit sad. But you can always get those in various other spots.
+When you are done, just head back south.
+
+*Stadiums Rebattles
+Author: tunmi13
+Yes, you can now rebattle all the prior stadium leaders. this time, however, they possess much stronger manamon, which are in the early to late 90s. They also have   much rarer/costly equipment on their manamon, so they will be  harder to beat. make sure your manamon are   up there, (100 is the best, and the max level that manamon are able to go).
+
+For help on how to get through the stadiums, read the main part of the guide. Here are the battles, from 1 to 7.
+
+@@Stadium Leader Skeeter
+Centiplex is level 91 with a Hundred Arm Coat equipped
+Daggeetle is level 95 with a Long Dagger equipped
+Rumblebee is level 93 with a Root Point equipped
+Symphonid is level 93 with a Megaphone equipped
+Sylphantom is level 94 with a Hive Buster equipped
+Trumer is level 95 with an Angel Pendant equipped
+A "Requiem" is, was, let's not go there. Point is, it's over.
+
+@@Stadium Leader Brooklynne
+Fauntozaur is level 95 with an Angel Pendant equipped
+Submenno is level 94 with a Gold Shield equipped
+Frorgeril is level 95 with a Broomstick equipped
+Tarboo is level 96 with a Soul Saber equipped
+Angillish is level 96 with a Vapor Garment equipped
+Wavotamus is level 93 with a Resister Advance equipped
+
+Wow, she just can't get a hold of herself. Let's battle before she... nevermind, that's beyond this guide.
+@@Stadium Leader Roseanne
+Hydrake is level 96 with a Long Wand equipped
+Banyardan is level 95 with an Ultra Snow Shield equipped
+Fowlusion is level 95 with a Willow Hammer equipped
+Slothegor is level 97 with the  Irod Pendant equipped
+Treezon is level 97 with the Chrono Core equipped
+Thornita is level 96 with a Berserk Club equipped
+Good to know they are annoying you too. They're annoying me, at least.
+
+A re rematch. Love it.
+@@Stadium Leader Adrik
+Sirenea is level 96 with a Speed Anklet V2.0 equipped
+Shadyena is level 98 with a Tank Immunity Bracelet equipped
+Dussoket is level 97 with a Yellow Star equipped
+Werewolfsyre is level 97 with the  Irod Pendant equipped
+Ninjarkin is level 96 with a Katana equipped
+Duskond is level 96 with the Kumori Cloak equipped
+
+Congratulations on your engagement"! Let's celebrate it with a battle with the  manamon master.
+@@Stadium Leader Tatsuo
+Dragomier is level 98 with a Firebrand equipped
+Glimerodo is level 97 with a Rearmband equipped
+Volanteral is level 98 with a Stone Club equipped
+Dragomier is level 98  with a Secondary Scale Uniform equipped
+Volanteral is level 98 with a Dragon Guard equipped
+Dramegon is level 97 with a Fairy Suit V2.0 equipped
+Watch out for the Dragomiers, they're quite deadly.
+I'm happy to say that my Glimerodo's Final Dragon attack dealt 831 damage to  the second Dragomier, keeping in mind in all my years of playing Manamon  2, I have never had that happen.
+
+There was, in fact, a stadium with two stadium leaders in Manamon 1. About the put in a word part though... Hmm. If only. Aaron, quest possibility here? Nudge nudge?
+@@Stadium Leader Bram
+Fiendour is level 98 with a Headstone Amulet equipped
+Jagzeom is level 98 with an Unknown Bone equipped
+Skeletone is level 98 with a Magnet Jacket equipped
+Bombusect is level 98 with the Requiem Hourglass equipped
+Maustodon is level 98 with a fire Suit V2.0 equipped
+Dormanoid is level 100 with the Sword of the Undead equipped (Careful, this one can unshackle, becoming an Unbound Dormanoid)
+
+And last, but not least... Ambition roars like a brutal fire kills. I kill not for pleasure, but god save the Dyeur Hills.
+@@Stadium Leader Blaze
+Tylavile is level 99 with a Firebrand equipped
+Escargma is level 99 with an Element Guard equipped
+Ursinearator is level 99 with a Burner Charm equipped
+Araknite is level 99 with a Resistor Advanced equipped
+Lantlare is level 99 with a Haunted Hat equipped
+Blaizond is level 99 with a Torch Hammer equipped
+Yeah that prank was pretty sudden. :D
+
+And we're done with the battles! This will now unlock the ability to fight the Master Stadium in the Upgraded mode.
+I will not go into detail about what is contained within the Upgraded mode, however if people wish for me to write about it I will.
+It's basically just way higher level manamon, and the same master you fought. From hereon out, the master you fought will always be the one you go up against. This applies to both modes.
+
+*Back to the Past: A Reanimated Manamon Master
+Author: tunmi13
+So what is it like, fighting Andromeda Masterson, or Princess Andromeda if we're referring to Requia?
+Well, there's only one way to find out, by seeing her, in her bedroom!
+How many readers' minds just went in the gutter?
+Remember, you cannot go to the Requiem Gallery anymore to get to Requia. You have to go to Corona's time machine in Tradale Village.
+Let's delve into a bit of time logic here, just for fun. I've had GPT-4 explain this better than I could, it took my text and made it a lot cleaner.
+The supercomputer created Requia, a dimension Oghma himself drew into being, then powered with an Artisoul and a ruby. Oghma was real, but when Requia collapsed and rewound, he was deleted. You nearly suffered the same fate, if not for Rena and her father pulling you free.
+Because of that, the time machine doesn't really bring Oghma back. It doesn't restore him as he truly was. What returns is only a ghostly version, more program than person. Theoretically, Oghma could emerge from the computer, but if he did, he'd likely manifest as something twisted, like a hyper. That's another rabbit hole we won't dive into.
+But here's something you should be aware of: you still exist. Not only here, but also there. A version of you remains within that dimension. We don't know exactly where you are at the moment the time machine deposits you, only that it is around the time you journey to the edge of the world. But you're there.
+That means if you tried to meddle (for instance, rebattling Oghma, retriggering the Last Resort Protocol, or anything along those lines), you'd risk a paradox, and things would get very messy.
+Thankfully, Aaron prevents that from happening, and if you try to do something that may alter what has already happened, you will be denied access.
+The only reason you're able to face Andromeda is because, by that point, your other self had already gone off to confront Oghma. That absence leaves an opening for you. Since your virtual self is the one who receives assistance later, she either can't recall what truly happened, or she does remember, but says nothing, since speaking of it could unravel into another paradox. The game never makes that clear, and that's probably for the best.
+Lastly. You had already promised that you would end things, and you did. Letting her know it was over didn't risk breaking anything, because by then, she was already gone. The  computer had shut down (well actually it went boom), her deletion was complete, and there was nothing left to unravel. In a way, those final words weren't a disruption of the timeline, but a confirmation of it.
+Okay, that's enough of all that. Where wer we?
+Ah yes, the battle!
+Andromeda's quarters are located in Requiem Castle.
+On the hill, copter to Requia. If you did not visit Requia before the complete destruction, simply head all the way south on the hill until you bump the wall, and you will find it in the eastern portion if you travel east. Take the transition south.
+
+_Requia
+If you did not use the pocket copter:
+Literally just head all the way south until you bump the southern wall. You will then have to go east, but watch out for the walls to the east sticking out. You can avoid them by going north until they vanish, and then east.
+Once you reach a wall to the east that is solid (no twists, turns, or sudden disappearances), head all the way north until you reach a wall, then follow it west. The castle transition will come up to the north, so go ahead and walk through.
+If you did use the pocket copter:
+Veer around the building, and then go to the northern wall. Follow it east or west (depends on which side you took) and the transition will be right in front of you.
+
+_Requiem Castle
+While we are here, we can also visit the places leading up to Andromeda's bedroom. It's better than not mentioning anything at all.
+Just head north through the next transition.
+
+To the left will be an Oghma statue. Feel free to look at it, or don't.
+Spread out in this area, in fact a lot of the areas in the castle, are several  tamers. Get too close, and they will notice you. But if you avoid them, they shouldn't be much of a bother.
+There is a chest somewhere in the middle of this space, containing 2 power potions.
+Head north through another transition, and we'll be in a hallway.
+
+Head west in this hallway. A transition will open up to the south, so head through.
+
+This is a bathroom with several stalls on both sides.
+In one of the left stalls (starting from the northern wall, can't remember if it's the first or second) is 250 gold.
+Heading all the way south, you will find two sinks. The sink near the eastern wall holds a Treasure Chest Key. Who knows why it's there.
+There may be some hidden items here, but I haven't found them yet, and have not heard of any additional ones in this particular area. So let's head back north.
+
+When you exit, head to the western wall, then follow it north. It'll open up. Ignore it, and take a few more steps north.
+You will eventually have a straight shot west, so head west to reach another transition. Let's go through.
+
+This appears to be a library of some sorts, but it's just a deduction based on how many bookshelves are here.
+Heading north, you will find a bookshelf. To the right of it will be a tamer / guard, whichever you want to call them. They won't engage you unless you engage them.
+Follow this bookshelf west, and it'll end, giving you a chance to go to the northern wall. Go up against it, and you'll find yourself sandwiched between two bookshelves. The one on your left contains a giganet upon interaction. Makes sense considering the type of books it offers.
+Follow the next few bookshelfs in a similar fashion, and you'll hear an item between two shelves. It's a Rare Jewel.
+A few more bookshelves west, you will hear an item behind you. It's a Speedy Potion.
+There's nothing else here, so head back east and through the transition.
+
+Head north to the northern wall, and follow it east. When it ends, go north.
+You will notice that the wall to the west will end abruptly. Start heading west so that the wall is behind you, and you will quickly find another wall to your west. Follow it north.
+Once you reach the next northern wall, follow it east. You will quickly find a transition to the north. This leads to the throne room. She's not actually here, but there's something  interesting  to do in here.
+
+Upon entry, head all the way east, then follow the eastern wall north. Don't worry, there's no trigger or anything here, since you already did that whole schpiel a long time ago.
+Eventually, the eastern wall will open up. Standing within this little alcove, thinking he can get away with what he's doing, is a guard. Save before you interact with him.
+He's asking if you care for a wager. Upon clicking yes, you have two options. Heads, or tails.
+If you select one, he'll flip a coin. If you chose what the coin lands on, he'll give you 500 gold. But he gets caught red-handed, then tries to blame you for it. As if you were the one causing mischief, he shouldn't be talking.
+The rest of these guards / NPCS are just admirers or suspicious of you in general. Otherwise, there's nothing else here, so let's head out. Just head back south, and through the transition.
+
+Alright, it's time to do what we came here for.
+Follow the northern wall east, until you reach the eastern wall. Follow it south, until a gap opens up to the east. You will hear stairs.
+Take these stairs up, and you'll arrive at  the destination.
+
+From the stairs, head south until you are able to go west, then head in that direction. You'll hear her. Save, and interact with her.
+You'll have a long, meaningful conversation, and then it's showtime!
+I love the track  used for this battle.
+
+@Manamon Tamer Andromeda
+Vishthaugh is level 70 with a Gold Shield equipped
+Glimerodo is level 70 with a Yellow Star equipped
+Schemu is level 70 with a Dark Blade equipped
+Rescumo is level 70 with the Requiem Hourglass equipped
+Blade Dodderator is level 70 with a Jungle Javelin equipped
+Erroir is level 70 with a Broomstick equipped
+Well fought, Andromeda. Well fought.
+
+One last meaningful interaction. She almost hands you her Life Crystal, but halt! Bad idea!
+She does, however, give you something nice. Something that does not threaten the balance of the world. It's Requiem Dust. We will be using that pretty soon.
+Alright, we are done here. At least, in Andromeda's bedroom. But stay down here, we're not done yet! make your way out of the castle though.
+
+*Back to the Past: "I see a little silhouetto of a man"
+Author: tunmi13
+Do you believe in ghosts?
+I personally don't know whether my answer is yes, or no. Sort of in the middle I suppose. However, there is a ghost we can get down here.
+Remember how I said to not leave?
+Well, if you did, time to go back. Or, if you just never came here and are now reading this section, head through the time machine in Tradale Village, through the catacombs (using the helpful teleporter) and back onto the hill.
+Notice that if you go north, there is a section of water we've never crossed. Well, we're crossing it now.
+Get into the water, and travel north until you are able to get out. Once you  are out, head to the northern wall, then follow it east.
+You will slip between two walls, then the  northern wall will open up, so head north.
+When you reach the next wall to the north, follow it east. It'll open up to a transition. Head through it.
+
+_Dyaz Royaum Ruins
+Be careful, there is a manamon here among the rest called Dyaz Heir. It isn't as lethal as the actual Master Dyaz, and does not have the concerning moves, but it's still good to be on guard.
+From the transition, head east until you reach the eastern wall. Follow it east, and it will eventually open up, and you'll find yourself on debris.
+Keep heading east (it's quite the walk) before hitting the next eastern wall. Follow it north, until you reach a wall to the north.
+Follow the northern wall west. it zigzags, so you'll have to go west, north, west, north.
+Eventually it'll open up, and when you head north, ignore the area to the east, just keep going north.
+When you reach the northern wall, back up a few paces so you can go west, then head west.
+You will eventually encounter a chest.
+Assuming you haven't used the Treasure Chest key you got from the sink in Requiem Castle, or you have keys on hand, unlock this chest with the key. You will find a Chrono Core. You've already seen a person or two use this accessory.
+
+$Chrono Core
+This thing only really gives you 50 health points when you knock your opponent out. Other than that, it has no boosts or takeaways. You can put this on whatever you deem appropriate.
+
+BOOM!
+Hey! A bomb in a chest! It wasn't a suitcase. Well, looks like you won't be seeing any remnants of that, ever.
+Now head back east, all the way until you reach the eastern wall, ignoring the gaps in the northern wall as they present themselves. Once you reach the eastern wall, follow it south, but be careful!
+To your immediate left will be a pit. Fall into it, and let's explore what lies at the bottom.
+
+To your left, you will hear a post. This will take you back up.
+We can do two things here.
+Head west until you reach the western wall. There is a gap here, but the post is blocking it.
+Instead, we need to head north just a little ways, then when you can go west, do so.
+A gap will open up to the south, so take it south.
+The post is now to our right, but there is an item to our left. Head to the southern wall, then go west to claim it. it's a Full Revive.
+Now head back north, but keep going north until you hit the wall. Follow it east, and you will eventually find yourself sandwiched between two walls.
+Eeventually, you will hear the all too familiar growl of a Lonar. But this isn't just any Lonar. This is the ghost version.
+It looks scared, so let's take it and give it a new home, whether that be on your team or in your transportal.
+Now head back west, and once you hit the western wall, follow it south.
+When you reach the southern wall, head east until there is a gap, then take it south. A gap will open up in the eastern wall, and this is on the left side of the post. We can still use it though, the side you are on does not matter. Climb up, and we will return to the area near the pit.
+
+Now, to get out of here. I personally find it easier to just copter out to a location (Requia comes to mind) and then return to the hill that way.
+
+*Back to the Past: Get Over Here!
+Author: tunmi13
+Remember how I said to not leave?
+Well, if you did, time to go back. Or, if you just never came here and are now reading this section, head through the time machine in Tradale Village, through the catacombs (using the helpful teleporter) and back onto the hill.
+Remember the edge of the world? Well, we're going there again. Sorry, I don't like it either, but it's the only way to do this.
+Make sure you have that Requiem dust on hand. If you don't, go battle Andromeda (see above).
+Copter to the end of the Frozen Hinderland.
+From the stairs, head north. I recommend squaring off with the stairs.
+When you reach the northern wall, notice there are two gaps. One on the left, and one on the right. Take the one on the left north.
+When you reach the next northern wall, take the gap that is against the western wall north.
+There will be a few gaps in the eastern wall. Take the gap that is closest to the northern wall.
+When you reach the next eastern wall, head all the way south, then take that gap east. Be careful, as there are several identical gaps here.
+At the next eastern wall, head north until you reach the northern wall, then take a step or two west.
+It's a straight shot from here, so head north, and here we go again.
+
+_Edge of the World
+Head all the way north until you reach the cliff. 
+Open your inventory, go to the Other category, and use the dust.
+Oooops? We've done it again! Hathorilian is pissed, and... dimension breach error.
+
+_Abandoned Shrine
+You will notice a teleporter here, don't take it just yet. Instead, head for the imposing transition before you.
+Upon entry, head north. You will run into a wall, so just sidestep east a little, and continue north.
+When the wall opens up to the west, take it west until you reach the western wall.
+There are two paths from here. South, and north.
+To the south is a manalith healing unit. And directly behind it, is 1   single gold coin.
+I'm not joking, see for yourself! LOL
+To the north is where we want to go. So head north until you reach the northern wall, then follow it east.
+When it ends, head north until you reach the next wall, then follow that one east as well.
+When you reach the next eastern wall, take a few steps south, and you will hear a transition to the east, against the northern wall. Let's go through.
+
+This is an area just like the one we went through earlier in the guide. You are floating, and you need to get through the area by taking steps in a certain fashion. If you step on the wrong tile, you'll fall, and be sent back to the southern wall.
+It is an exact replica it seems, at least mine is. So I have copied and pasted the instructions.
+Head all the way to the western wall.
+Take 4 steps forward.
+1 step right.
+2 steps forward.
+1 step left.
+12 steps forward.
+You will notice a gap to the west, assuming your back is pressed to the southern wall.
+5 steps left.
+1 step forward.
+1 step left.
+All the way forward until you hit the northern wall.
+1 step right.
+Forward, up the stairs.
+
+_Abandoned Shrine F2
+This is just like in the shrine from Quennsette. Head west for a really long time.
+You discover that this is the nexus through which Hathorilian and the hyper forms escaped from Requiem, or at least one of them.
+And Hathorilian is aware that you have come to check out said nexus.
+Hathorilian then does this weird transformation like thing, and it splits itself into 4 identical copies.
+here we go again!
+
+@@4 Hathorilians
+Level: 60
+Same concept here with the level 30 Hathorilian, just 4 of them this time. The  copies  will place down boxes. Make sure to change up which box you hit each time. It'll take some memorization, especially if they decide to put down boxes on the same turn, thus resulting in 2 to 8 boxes in total.
+Have fun!
+
+Well, now there's just one Hathorilian. And guess what? You can actually catch this one! It's level 70, so you'll have to widdle its health down quite a bit before you can snag it, but it's yours for the taking!
+Once you defeat it or capture it, you'll automatically be teleported back to the edge of the world's clifftop.
+Alright, that's it here. Don't bother trying to go and disconnect Artisoul, make the world unstable, etc. Aaron put a barrier there that says it's not a good idea.
+
+*Back to the Past: You're Supposed to be Dead
+Author: tunmi13
+Remember Barren Byron? Well, let's just say he's still alive.
+Which to me, makes no sense, because you'd think that your virtual self would have dealt with him already.
+To rebattle him, head to the Frozen Hinderland, then south back into the Barren Underground. He's standing there, waiting for you.

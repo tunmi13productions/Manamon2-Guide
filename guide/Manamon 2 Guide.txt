@@ -530,7 +530,9 @@ Yakshine is level 5
 His Yakshine has a move called bite, which does do quite a bit of damage. I did end up beating him with a level 6 manamon though, so don't fret.
 In addition, he'll heal all your manamon for you, so you don't have to go back to the hotel unless you really need to.
 
-Once that's done, keep heading north until the western wall opens up, then head west. More tamers!
+Once that's done, keep heading north until the western wall opens up.
+Before you head west, head east for a chest. Open it to obtain 250 gold.
+Now,  head west. More tamers!
 The first one had an interesting idea to rip papers out of a book to use as a fan. How interesting...
 
 @Lass Peggy
@@ -3353,7 +3355,7 @@ You will get quite a lot of experience from this too.
 Good luck!
 
 In this room, there are tons of teleporters. Some take you to different areas, while others simply put you back in this room at the door.
-Your goal is to take the ocrreect teleporters to reach the other room.
+Your goal is to take the correct teleporters to reach the other room.
 I have provided these necessary teleporters to you.
 Head west, then north. Take the teleporter in that corner.
 Next, head north of the person you hear to the left of you, then west so that they are behind you. Travel through that teleporter.
@@ -3771,13 +3773,13 @@ _Back in Great Cave Geodaehan
 You will find yourself outside of the shrine. Now, let's retrace our steps.
 Travel all the way west, then head all the way south.
 Follow the southern wall all the way west, then head all the way south.
-You will ehar the ladder to the west, so take it down.
+You will hear the ladder to the west, so take it down.
 Now, travel all the way back south, until you reach the body of water. Swim east, then get out to arrive at the next ladder, and climb down.
 Head south to the next ladder, then climb down again.
 Finally, head out the entrance of the cave.
 
 _Back in Mamish Outskirts
-Travel south. When you reach the body of water, interact wiht it, and a man will stop you. He pitys you, and takes you to a village. This is behind the gate that you were unable to go through.
+Travel south. When you reach the body of water, interact with it, and a man will stop you. He pitys you, and takes you to a village. This is behind the gate that you were unable to go through.
 
 _Mamia
 You come in on a celebration dance that is about to end. It eventually dies down, and you get to stay at a man's house as a guest.
@@ -4100,7 +4102,7 @@ Launch right, and you will be placed to the right of the next cannon. Head north
 Take a step north, and the item is to your immediate east. It's a Medical Miracle.
 Take the teleporter, which will take you back to the first cannon we used.
 Truth is, there's not only one cannon in here.
-Head east of the ladder, and then south. You will run into another cannon. Launch yourself backward wiht it.
+Head east of the ladder, and then south. You will run into another cannon. Launch yourself backward with it.
 Now, start heading south, keeping to the eastern wall. When you reach the southern wall, travel along it west.
 Once a gap appears in the southern wall, take it south, still following the eastern wall. When the platform changes, start heading west. You will hear a ladder that goes back down, so let's take it.
 
@@ -5237,7 +5239,9 @@ Go and leave as you please.
 There are things here you can do later, but that will be discussed in the post-game section of the guide.
 Once you are done, go back to the normal portal. Instead of taking you back to the super computer, it will bring you back to the time machine.
 
+Unless you have already grabbed it, aim for south of the time machine. It's a game disc, the game being called Chronometry. have fun with it!
 Alright, time to head out.
+
 Last but not least, the Tradale Stadium.
 The stadium is actually not in this particular area of the village. You must swim to a different place.
 You might of heard some water by the hotel. It's not actually there, however. It's behind a wall.
@@ -6407,7 +6411,7 @@ You will eventually encounter a chest.
 Assuming you haven't used the Treasure Chest key you got from the sink in Requiem Castle, or you have keys on hand, unlock this chest with the key. You will find a Chrono Core. You've already seen a person or two use this accessory.
 
 $Chrono Core
-This thing only really gives you 50 health points when you knock your opponent out. Other than that, it has no boosts or takeaways. You can put this on whatever you deem appropriate.
+This thing only really gives you 50 health points when you knock your opponent out. Other than that, it has no boosts or takeaways. You can put this on whatever you deem appropriate. It's useful for grinding lower level manamon.
 
 BOOM!
 Hey! A bomb in a chest! It wasn't a suitcase. Well, looks like you won't be seeing any remnants of that, ever.
@@ -6496,3 +6500,22 @@ Author: tunmi13
 Remember Barren Byron? Well, let's just say he's still alive.
 Which to me, makes no sense, because you'd think that your virtual self would have dealt with him already.
 To rebattle him, head to the Frozen Hinderland, then south back into the Barren Underground. He's standing there, waiting for you.
+Note that  he is now level 70 (manamon included), so manamon above that level are highly recommended.
+
+*Back to the Past: The Fallen Angel
+Author: tunmi13
+Not so eternal, are you?
+The Eternity Angel (ahem, not eternal anymore) is located in  the catacombs, just outside of the dungeon.
+Take the teleporter from the eastern section of the catacombs, then find the stairs and head up.
+
+_Catacomb Antechamber
+Head all the way north to the northern wall, then follow it east. You will find a small gap in the northern wall.
+Rather than heading north to the next wall, listen for when the wall to the east ends, then head east so that the wall is to your south. You will abruptly find a gap in the southern wall, so head through it.
+At the next southern wall, follow it east, and when you reach the eastern wall, head north.
+You will be near a set of stairs. Find them, then head to the next area.
+
+_Catacombs Dungeon Entrance
+Head northeast, and you will hear it, in all its pathetic glory!
+Note that the angel is now level 80, so manamon above that level are highly recommended.
+When you are done, use the catacomb key, and you'll return to the outside world.
+

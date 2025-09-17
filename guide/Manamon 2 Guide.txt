@@ -6519,3 +6519,73 @@ Head northeast, and you will hear it, in all its pathetic glory!
 Note that the angel is now level 80, so manamon above that level are highly recommended.
 When you are done, use the catacomb key, and you'll return to the outside world.
 
+*A Slide Across the Ice
+Author: tunmi13
+In the Polar Preserve south of Solphoa Peninsula, you might have remembered a strip of ice we could not slide across. Well, now we can!
+From the gate, head north. When the wall opens up, head east for awhile. You will hear it eventually.
+Slide across it, then head east. You should find a gap in the eastern wall. If you do not, head north or south until you locate it, then head through.
+At the end of this space is a chest. Open it to obtain an Ice Staff. It increases the power of ice type attacks by 20 percent, and it also grants +5 magic attack. As a bonus, no penalties! Slap it on an ice type and you're good to go.
+Now this time, slide back west. When you get off the ice, make sure the edge of the northern wall is directly to your right (meaning that you are aligned with it and when you slide right, it will be in front of you).
+This time, you will bump into a wall to the east. Slide north, and you'll be off the ice in a different area.
+Take a few steps forward, and there will be a gap in the eastern wall. Take it east, and you'll hear a body of water.
+Hop in, then swim to the northern wall. Follow it east for another strip of ice to the north, which you should slide upon, but stick to the western wall.
+You will slide out of the water, and bump into another body of water to the north. Get in.
+Now, we have some alignment to do. Assuming you stuck to the western wall, take 3 steps east, then slide south. You will bump into an item. It's a Life Tonic.
+That's all there is over here, but I could be mistaken. If there is more, correct me.
+
+*The Baluga Whale!
+Author: tunmi13
+Okay, this thing isn't actually a baluga whale. But it's still huge. You'll see what, and why.
+You'll need to head to Shadow Canyon for this. You will also need the following.
+1. A manamon that has the move Dive, or Diver's Gear (we will obtain that momentarily).
+2. At least 5 stadium keys.
+3. Manamon greater than or equal to level 70, the higher the better.
+In the canyon, search for the water. This time, we are not going to the Kiarre Ocean.
+Swim east, and you'll find a transition.
+
+_Submarine Tunnel
+If you  have a manamon with the move Dive, you can skip this step.
+Follow the eastern wall south. When it opens up, head east. Assuming you are up against the northern wall, you will bump into a chest, containing Diver's Gear.
+Equip this gear to a water manamon to give it the move Dive. Don't worry, it's normal (no boosts, penalties, etc).
+Now go back west, and follow the eastern wall north.
+You will hear a loud current to the east. Head for it, and let it take you.
+When it lets you off, you will hear a teleporter behind you. This is the way back, but we want the way forward, which is north. So head north.
+yeah, the music isn't so  cheerful anymore. You know there's trouble up ahead.
+When you're out, head east, and you will be next to another body of water. Hop in.
+Ignore the music, it's misleading. pay attention to the gurgling water. Find it so that it sounds like it is around you, then hit your interaction key.
+When it asks if you would like to dive down (either using your manamon's attack or the gear equipped to it) select Yes.
+We are now beneath the surface.
+From here, we are going to resurface somewhere else.
+head all the way south to the southern wall, then follow it east. A gap will open up, so head south.
+At the next southern wall, head all the way east, then get ready to resurface.
+To do so, hit your interaction key. When it asks if you are ready to resurface, select Yes.
+Immediately when you get out, you will hear a tamer running in place off to your right. Swim east to the eastern wall, then north. You will be able to get out of the water to the east.
+When you get close enough, they will inform you about the requirements, and if you meet them, they will run off. The tamer does say level 60, but I wrote 70, as having that extra headroom is recommended.
+Head east, and you will eventually find a body of water to the north. Get in.
+Before you go diving under (there's another spot here) save. Things are about to get fun.
+Well well well. Look who it is!
+
+@@Hyper Tarboo
+Level: 65
+If you thought you wouldn't be seeing any more hypers, you've just been proven wrong.
+Look at what you are facing off against.
+Credit goes to Vatshal Gautam for these machine specifications, as I only knew what some of them did.
+All of these machines are level 55, and it is recommended you take them down in the following order, before taking on Hyper Tarboo head on.
+Death Cry Generator
+This thing does exactly what it sounds like. It uses the move Death Cry on your manamon, which as you may know, eventually kills them.
+Defeat it as soon as possible, as since you have three on the field at a time, it will kill them, forcing you to summon your last 3. And if it uses it again, well bye bye team!
+Tarboo Spawn Machine
+This, again, does exactly what it sounds like, it spawns additional Tarboos (usually level 40). And you do not want that. Take it down.
+Tarboo Hyperizer
+This essentially makes Hyper Tarboo, well, hyper. Attack Hyper Tarboo directly, and it's going to be quite hard to defeat, unless you get rid of this machine.
+Attack the Hyperizer, and it functions like a damage collector. Periodically, the damage you inflict on the Hyperizer will be redirected onto Hyper Tarboo, making it much easier to defeat. However, you'll need to keep up the pressure, because if you stop dealing damage, you'll end up spending a long time slowly chipping away at the Tarboo, and not the machine.
+Once you take it down, Tarboo should be around less than 20 percent health (or at least it was for me). Once it dies, prepare your ears, because its death sound is quite loud, but also quite satisfying, at least to me.
+You don't get a whole lot of experience and gold for this, but there's something west that makes up for it.
+
+When you head west, grab the Blackmatter Goo. You will know what this is for later.
+If you can't find a place to resurface, head to the southern wall, and a bit east from the southwestern corner.
+Now head south out of the water, and retrace your steps west to the previous one, and hop in.
+Dive into the water once again, and head north. At the northern wall, head west, and when a gap opens up, head north through it.
+You may need to go a little west into the space that presents itself in order to resurface, but once you do, swim west, and out of the water. Head south to the next one, and you will hear the teleporter behind you. Take it, and it will deposit you west of the current.
+Now all you have to do, is swim west, through the transition, and you're free! You can swim around, or copter out, your choice.
+

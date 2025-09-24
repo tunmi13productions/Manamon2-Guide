@@ -15,7 +15,9 @@ Currently, the guide is available in Plain Text (.TXT).
 - For now, a text editor with symbol markers (e.g., `!` for sections) is recommended for navigation.  
 
 ## Contribution Guidelines  
-This guide was primarily written by tunmi13, with contributions from Kalahami.  
+This guide was primarily written by tunmi13, with contributions from Kalahami, and now with additional contributions from the following individuals:
+
+- KamiKitsune
 
 If you wish to modify or expand this guide, please follow these rules:  
 
@@ -50,4 +52,6 @@ You can obtain the tool here:
 [Download Manamon 2 Guide Retriever Tool](https://tunmi13.com/projects/manamon2guide.zip)
 
 ## Note
-The post-game content is currently not written. We plan to continue writing it in the future, however.
+The post-game content is currently being written gradually, with assistance from fellow contributors (see above). However, it is likely we might have missed something. If this is the case, please open a pull request, or contact me, so that the content can be added. if you write it, you will be included in the contributors section above.
+
+Thank you!

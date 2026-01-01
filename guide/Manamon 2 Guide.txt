@@ -6599,37 +6599,29 @@ Since we are already in Shadow Canyon, we might as well visit an old friend of o
 Level: 90
 Nothing changed from the first fight, he was just boosted to level 90. destroy him and send him home or whatever.
 
-*Come on here, you giant spider!
+*Come On Here, You Giant Spider!
 Author: Hades/Vatshal Gautam
-So here, you are wanting to go to brightnburg wilderness, and this time, you need to go to the way from a man takes you to across a river, which is west and south from the entrance. As by now, I'm sure you know it. So simply, travel there, and be sure to talk to every tamer. When you find the tamer which says that 'I lost to you a bit ago, didn't I?' who is country woman franceen. Now, go east, south, a bit east, and then south I think. As by now, you should be hearing the voice of hyper symphonid. Now, save and hit enter!
-Note: These directions that I provided may not be accurate, but I believe you may be able to find hyper symphonid and get a grip of it
+For this one, you need to head to Brytanburg Wilderness. Remember the man who takes you across the river? He is west and south from the entrance. Travel there and cross the river.
+From where he drops you off, head east until you reach the eastern wall, then travel north. You will pass by several tamers along the way.
+When you find Country Woman Franceen, the one who says "I lost to you a bit ago, didn't I?", you are close. From her, head east, then south, then a bit more east, and finally south again.
+You should be hearing the voice of Hyper Symphonid. Save your game and interact with it!
 
-@@Hyper symphonid
-It's level 90, and other than that, everything is same except it's now more stronger and powerful. A strong flame and poison type, or something effective may take it down quite quickly, as it's more frail than the master dyaz and Barren byron
+@@Hyper Symphonid Rematch
+It is level 90. Other than the level boost, nothing has changed from the first fight. A strong Flame or Poison type, or something else super effective, can take it down fairly quickly. It is more frail than Master Dyaz and Barren Byron.
 
-*Who doesn't like power?
+*Who Doesn't Like Power?
 Author: Vatshal Gautam, aka Hades
-So go to brightenberg east, and you may recall a place named tangerian embasy. To correctly identify the building, you may find a person who dislikes tangerians and want to send them back. After finding tangerian embasy,
+Head to Brytanburg East. You may recall a place called the Tangerian Embacy. To find the building, look for the person who dislikes Tangerians and wants to send them back. The embacy is just past him, further north.
 
-_Tangerian embasy
-So here, you can import your manamon 1 manamons to manamon 2, to have fun with them! but note, that you only can import them from the party, not transportal, so be sure to open your manamon 1 as well.
-After importing 15 manamon, you'll get an irod pendent, and after importing 30, you'll recieve holy medallion. Descriptions of each one is given below
+_Tangerian Embacy
+Here, you can import your manamon from Manamon 1 to Manamon 2 and have fun with them! Note that you can only import manamon from your party, not from the Transportal, so be sure to have Manamon 1 open as well.
+After importing 15 manamon, you will receive an Irod Pendant. After importing 30, you will receive the Holy Medallion. Descriptions of each are given below.
 
-$Irod pendent
-This thinig gives you 25 percent strength, but makesyour manamon get ten percent backlash on every move. It's not bad, since dealing 120 damage and recieving 12 as a backlash isn't a great deal, if you can destroy the foe quickly
-$holy medallion
-This medallion gives you 25 percent magic attack, and does the same as irod pendent, aka, makes your manamon suffer ten percent backlash damage on each move. Then again, ten percent isn't much for twenty five percent boost
-Note: On each equipment, it's always required to heal your manamon always, as the damage will add up each time, especially if your manamon is supposed to deal like 800 or so damage to the foe. No, the damage still remains 10 percent, but still
+$Irod Pendant
+This item gives you 25 percent strength, but makes your manamon take ten percent backlash damage on every move. It is not bad, since dealing 120 damage and receiving 12 as backlash is not a big deal if you can destroy the foe quickly.
 
-* Pierre? Now that's refreshing to see paladin of the sky characters here!
-Author: Hades/Vatshal Gautam
-Yeah, pierre. So here's what it is. In greater katakomes, you need to go to katakomes antechambor, and 
-instead of going to katakomes dongeon entrance, you need to go north through a bit long gap to lower katakomes
-_Lower katakomes
-This maze is pretty, pretty hard. But worry not, when your brother is here!
-So here, you need to go into specific directions, or find a specific items, like a treasure chest ETC. Wait for some time untill I finish my own save file and go to lower katakomes, and I may update them here
+$Holy Medallion
+This medallion gives you 25 percent magic attack, but also makes your manamon suffer ten percent backlash damage on each move. Then again, ten percent is not much for a twenty five percent boost.
 
-Also, let me tell you something interesting.
-You can rebattle hypers too! I mean, those all 4 hypers, not all. When you'll beat the masters stadium, all those hypers will be revived, so you can battle them again. Master stadium is sort of revive for all those hypers. Whatever it is,all hypers may help you in completing your manapedia.
+Note: With either equipment, be sure to heal your manamon regularly, as the damage will add up over time, especially if your manamon deals around 800 damage per hit. The backlash is still only ten percent, but it accumulates.
 
-Till then, goodbye!

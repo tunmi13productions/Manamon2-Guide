@@ -1,4 +1,4 @@
-  
+
 Manamon 2 Walkthrough Guide
 Created by tunmi13, with Post-Game content written in collaboration with Kalahami and other contributors
 Format: Plain Text
@@ -4413,7 +4413,7 @@ Continue all the way north. You'll reach a map transition.
 _Drumineshire Hamlet
 This is our first destination.
 This area is arranged around a body of water.
-Head east and then head north when a gap appears. You will reach a person, who tells you that there is a strnage beast around here somewhere. Not good.
+Head east and then head north when a gap appears. You will reach a person, who tells you that there is a strange beast around here somewhere. Not good.
 Head back to the entrance.
 If you walk west until you bump the wall and then head north, water will be available to the west.
 Swimming south and then getting out will take you to a person who has some rude things to say about Oghma. This place sure does look like something that was poorly created, so I don't blame them one bit.
@@ -4507,7 +4507,7 @@ This time, head south from the stairs, then head west.
 When you can go north, be careful here. Follow the eastern wall. When it veers, you must veer with it, or you will be caught.
 At the northeastern corner, take 6 steps west, then 6 steps south.
 At this position, head all the way west, then head north.
-You may find yourself going into a gap with no exits. Back out, follow the northern wall west, then head north to avoid the next ghosties.
+If you miss the gap in the western wall, you may find yourself going into a gap with no exits. Simply back out, follow the northern wall west, then head north to avoid the next ghosties.
 You may need to sidestep a bit west to continue heading north, but once you reach the northern wall, just follow it west.
 At the western wall, do not head south. There is a current that comes this far. When it receeds, head south, then a bit east.
 Head east to collect 450 gold. Do not go all the way back to the western wall!
@@ -4742,7 +4742,7 @@ You will keep sliding north, and through a transition.
 You will stop[ a few paces from the entrance. Head east, and when you hit the eastern wall, head north.
 head west until you find a gap in the northern wall, and walk through. Then, head west for open space.
 Head north to the northern wall, follow it west until you can go north, and continue north.
-You will will find another ghost hunter.
+You will find another ghost hunter.
 Apparently you have a strange spirit, and your soul cannot be sensed. Probably because it's not necessarily in this pocket dimension, it's in reality.
 
 @Ghost Hunter Freddie
@@ -4763,7 +4763,7 @@ Once you complete this battle, you will get 5000 gold.
 Now, slide back east. Head over to the strip of ice to the east, and slide onward.
 It's a rock. Oh wait...
 More turtles!
-Nice to see you again, urrubble. It's level 55.
+Nice to see you again, Turrubble. It's level 55.
 Take it down, and let's continue.
 Step off the ice, then head north. You will hear a map transition, so head through it. You may have to head a bit east to find it.
 
@@ -4782,7 +4782,7 @@ Once you get off, you will be sandwiched between two walls. When you can go sout
 Head west, and slide west onto the next section of ice.
 Once you get off, head west, and then south to find a chest. Open it to get a Snow Rescue Suit. This gives the manamon it is put on the ability Snow Rescue, which doubles its speed during a snowstorm.
 Now, slide back east on the ice, and get off where you were before. Head east to the gap next to the one you came south out of, and head north.
-There will be a gap in the eastern wall, but it is not all th way at the northern wall. Keep to the eastern side of the area, and then head east when possible.
+There will be a gap in the eastern wall, but it is not all the way to the northern wall. Keep to the eastern side of the area, and then head east when possible.
 Sticking to the wall behind you, keep walking east. You will hear a strip of ice, so slide east.
 Once you get off the ice, head south. You may run into a wall, so sidestep to find the gap in the southern wall, and then continue south.
 Upon reaching the southern wall, find the next gap south, and take it.
@@ -4821,9 +4821,9 @@ It's a Maustodon. I'm sure you know what type it is too.
 @@Hyper Maustodon
 This thing is just attrocious.
 Ever had your accuracy decreased by 5 stages? Well, you're about to.
-This manamon has an ability that will cover one of your manamon's eyes with snow, decreasing their accuracy by 5 stages. If you have a manamon with an ability that makes it immune to this, then you'll be fine. Otherwise? Have fun!
-Since it is a hyper, it is immune to most status effects, but you should be able to confuse it if you wish. It still will take damage from type advantage attacks as normal.
-Again, this doesn't have any advanced moves, but they obviously do deal way more damage than normal. Watch out for Crystal Slash and Black Ice, they hurt if your manmon is weak, or even more if it has a double weakness.
+This manamon has an ability that will cover one of your manamon's eyes with snow, decreasing their accuracy by 5 stages. If you have a manamon with an ability that makes it immune to this, or it has Perfect Glasses equipped, then you'll be fine. Otherwise? Have fun!
+Since it is a hyper, it is immune to most status effects, but you should be able to confuse it if you wish. It  will take damage from type advantage attacks as normal.
+Again, this doesn't have any advanced moves, but they obviously do deal way more damage than normal. Watch out for Crystal Slash and Black Ice, they hurt if your manamon is weak, or even more if it has a double weakness.
 You get a decent amount of experience and gold for this.
 Good luck!
 
@@ -4832,7 +4832,7 @@ You will hear a rather ominous map transition sound. Head through, and it's time
 
 _Edge of the World
 Perhaps one of the creepiest places in the entire game, even going beyond Shadow Canyon which is actually a real place.
-The music is creepy, even the ambience is. You can even hear the world's heartbeat.
+The music is creepy, even the ambience is. You will eventually hear the world's heartbeat.
 I warn you, the game only gets harder from here. Barren Underground was just a practice session.
 Head all the way north, and you will bump into something interactable. It's a cliff, into endless space. Thankfully we can't fall off.
 Head to the western wall, then head south. We will fall, but thankfully not off the cliff.
@@ -4873,16 +4873,16 @@ The goal is to make it through this area east, while avoiding both the spikes an
 I usually save a bit frequently in this area, as the further you go, the faster the lasers get.
 The first laser is relatively slow, so just step past it.
 Once you reach the eastern wall (was quite an annoying process for me), head west until there is a gap in the northern wall.
-Do not step in immediately! There's a current. Wait until it moves away, then walk through. Watch out, there are sitll spikes here.
+Do not step in immediately! There's a current. Wait until it moves away, then walk through. Watch out, there are still spikes here.
 Do not go too far, as there is yet another one.
 There is a gap in the western wall. Take it, and it's time for a speed booster, similar to Barren Underground F3.
-The only difference is that the ones in there were stationary. These are not.
+The only difference is that the spikes in there were stationary. These are not.
 Save before you activate the booster as well, since you won't be able to.
 Keep heading west, dodging the spikes the best you can with this ridiculous booster.
 You will eventually find a gap in the northern wall, so take it north.
 Stick to the eastern wall, and you will star to hear Chiropertas, again!
 That's right, we are avoiding more of these annoying ghosts.
-The good news is if they do send us back, we will just be sent to the part after we went past those spikes, not all the way back to the booster activation spot.
+The good news is if they do send us back, we will just be sent to the part after we went past those spikes, not all the way back to the booster's activation spot.
 Here's how to get through. Note that when I say head north or head south in this section, it means northern wall, and southern wall.
 We will be going east in this section as well.
 South to get past the first Chiroperta.
@@ -4904,7 +4904,7 @@ Once you reach the next eastern wall, follow it north.
 At the next northern wall, head all the way west, then north through the gap.
 Once you reach the northern wall, start heading east. You are essentially heading the way you came, but north of it.
 The northern wall will move slightly. Don't worry about it, just keep heading east. You'll enter another narrow gap.
-Don't stop going east until you can head north. Once possible, you will hear an exit in front of you.
+Don't stop going east until you can head north, and around this point, you will be free from the spikes. Once possible, you will hear an exit in front of you.
 Before you rush to the exit, check out the conveniently placed healing unit to the west. You probably need it. My Maustodon is the only one standing as I'm writing this.
 
 This is another picture puzzle.
@@ -4976,7 +4976,7 @@ There's been a lot of war in this country, a lot of pain and a lot of suffering 
 You're an artist. Make the world as beautiful as your Solphoa sunset painting."
 And here we are, at the moment where everything clicks. Oghma’s promises were grand (kingdoms, castles, servants, etc), but that wasn’t what she really wanted. He built this world for her, based on what he thought she meant, but it was all a misunderstanding. The pieces are finally coming together. She never asked for perfection. She asked for beauty, for peace, for a world that reflected who she was, not this ridiculous conclusion he imagined. Oghma took her words literally, and now, all of this is occurring, just so he could get her back.
 I will honestly say guys, this is also a life lesson. Sometimes, we will do anything to get something or someone we like back, and will sometimes go beyond normal measures to do so. There are times where you eventually just have to let go, even though it hurts. It'll still haunt you, in fact some of the deaths of my family and friends are still with me today. But they're gone. And the sooner you come to accept it, the better. Otherwise, you may change for the worse.
-We have the biggest battles (besides the stadium master) coming in manamon 2 yet. Is your buckle still on? Good. Because this is going to get even more chaotic.
+We have the biggest battles (besides the stadium master) coming in manamon 2 yet. Are you still buckled in? Good. Because this is going to get even more chaotic.
 Before we begin, you are able to get access to Requia now.
 Remember, the last time we visited Requia, was when Hathorilian gave us a vision. But we weren't in this world back then.
 Since the world is now falling apart, a pit has appeared in the lower right section of the room (southeast). Let's drop through.
@@ -5024,7 +5024,7 @@ Level: 50
 Not so kind anymore. Oh well, it was great while it lasted...
 Just like Byron, this version comes with all the apocalypse goodies, so be careful!
 It also has a move called Omega Sandstorm, which hurts if you have earth type vulnerable manamon. It will also cause a sandstorm as a result.
-When it gets really low on health, you will start noticing positive stat changes. I just used Holy Smoke with my Angillish to reset them, which actually works surprisingly. But don't rely on that too much if you have one.
+When it gets really low on health, you will start noticing positive stat changes. I just used Holy Smoke with my Angillish to reset them, which actually works surprisingly. But don't rely on that too much if you have the move.
 There is a different process with defeating this manamon.
 If you defeat it through normal means, it will transform into an even more annoying version of itself, where it is harder to kill, and has a very annoying move called Chaos Chamber. It will hit a manamon and put a random status effect on it, from poison, to scorch, among others.
 If you defeat it by confusing it (which is usually what I do) and it kills itself, it'll skip that entire process.
@@ -5039,7 +5039,7 @@ And now, the final transformation is pulled off.
 @@Last Resort Protocol
 Level: 50
 This thing has quite a few tricks up its sleeve, see below.
-1. Mirror Shield. When this shield is up, you can not hit the Last Resort Protocol. It simply doesn't work. You need to shatter the shield first before you can regain access. Just keep hitting the protocol it until it shatters. Alternatively, you can first hit the shield, then the protocol itself, which will both do some damage to it and to the shield.
+1. Mirror Shield. When this shield is up, you can not hit the Last Resort Protocol. It simply doesn't work. You need to shatter the shield first before you can regain access. Just keep hitting the protocol it until it shatters. Alternatively, you can first hit the shield, then the protocol itself, which will both do some damage to it and to the shield by chance.
 2. Bomb Box. This box must be destroyed as soon as possible. If it is not destroyed in at least 3 turns, it will explode, killing all manamon currently on the field.
 3. Vulnerability Protocol. This is a move, but it is still very important. It does not matter which manamon it uses it on. It is similar to the move Vulnerability Scan, but way more powerful. It will scan your manamon for its weakness, then hit you with the type it is weak to.
 Good luck killing this thing, and when you do, prepare to get the hugest load of experience and gold you have ever obtained in this game. You'll be scrolling for quite awhile.
